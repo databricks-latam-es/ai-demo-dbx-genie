@@ -14,8 +14,8 @@ Sigue estos pasos para instalar y correr la aplicación en tu entorno de Databri
 
 ### 1. Clona este repositorio
 
-`git clone https://github.com/tu-org/databricks-genie-demo.git
-cd databricks-genie-demo`
+`git clone https://github.com/databricks-latam-es/ai-demo-dbx-genie.git
+cd ai-demo-dbx-genie`
 
 ### 2. Sube los archivos a tu workspace de Databricks
 Puedes hacerlo directamente desde la interfaz de usuario de Databricks o usando la CLI:
