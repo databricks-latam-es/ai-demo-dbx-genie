@@ -1,0 +1,13 @@
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
+env:
+  - name: DATABRICKS_HOST
+    value: "https://my_databricks_host"
+  - name: "DATABRICKS_TOKEN"
+    value: "my_databricks_token"
+  - name: "GENIE_SPACE_ID"
+    value: "my_genie_space_id"
